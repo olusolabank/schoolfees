@@ -42,10 +42,9 @@ const LoanInformation = ({ setInput, loanInfo }) => {
           >
             <option>Select Number of Installments</option>
 
+            <option value='1 Months'>1 Months</option>
+            <option value='2 Months'>2 Months</option>
             <option value='3 Months'>3 Months</option>
-            <option value='4 Months'>4 Months</option>
-            <option value='5 Months'>5 Months</option>
-            <option value='6 Months'>6 Months</option>
           </select>
         </div>
       </div>
