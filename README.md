@@ -13,7 +13,7 @@
 - Go into the **out** folder, select all its content and compress to a zip file.
 - Login to the cpanel and go to the file manager, if you can't find it, click on this link https://wgh9.wghservers.com:2083/cpsess1706373595/frontend/paper_lantern/filemanager/index.html. It should look like the image below. &nbsp; <img width="1280" alt="Screenshot 2021-12-06 at 22 59 56" src="https://user-images.githubusercontent.com/32560317/144929593-23410984-f42e-4e7d-b01f-eb5caabd8edb.png">
 
-- On the left sidebar, click on the `loan-application` folder and It should look like the image below.<img width="1280" alt="Screenshot 2021-12-06 at 23 01 32" src="https://user-images.githubusercontent.com/32560317/144929801-fefab90a-2682-4600-b243-95aaeba14530.png">
+- On the left sidebar, click on the `school-fees` folder and It should look like the image below.<img width="1280" alt="Screenshot 2021-12-06 at 23 01 32" src="https://user-images.githubusercontent.com/32560317/144929801-fefab90a-2682-4600-b243-95aaeba14530.png">
 
 - Once you're here, Click on the upload option on the top navbar, once you've done that it'll look like the image below. <img width="1280" alt="Screenshot 2021-12-06 at 23 05 14" src="https://user-images.githubusercontent.com/32560317/144930251-7e819074-a7f6-49e0-a346-dc7a03e1d749.png">
 
