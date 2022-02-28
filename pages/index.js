@@ -50,6 +50,7 @@ export default function LoanApplication() {
   const [employerInfo, setEmployerInfo] = useState({
     employername: '',
     employeraddress: '',
+    employercontactnumber: '',
   });
 
   const [buttonState, setButtonState] = useState('');
@@ -224,7 +225,7 @@ export default function LoanApplication() {
 
       <Navbar />
 
-      <main className='px-5 md:px-16 flex flex-col md:mt-12 mb-16'>
+      <main className='px-5 md:px-16 flex flex-col md:mt-6 mb-16'>
         <div className='md:w-6/12 m-auto'>
           {status !== 'success' ? (
             <form onSubmit={onSubmit}>

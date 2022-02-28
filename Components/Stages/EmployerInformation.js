@@ -30,6 +30,20 @@ const EmployerInformation = ({ setInput, employerInfo }) => {
         </div>
 
         <div>
+          <Label title='Employer Contact Number' lFor='employercontactnumber' />
+
+          <Input
+            type='text'
+            id='employercontactnumber'
+            name='employercontactnumber'
+            placeholder='08154368292'
+            required
+            onChange={(e) => setValue('employercontactnumber', e.target.value)}
+            value={employerInfo.employercontactnumber}
+          />
+        </div>
+
+        <div>
           <Label title='Employer address' lFor='employeraddress' />
 
           <textarea
